@@ -1,7 +1,7 @@
 # Python Live Project
 
 ## Introduction
-For the last two weeks I worked on a Live Project with the Tech Academy, I worked with my peers in a team using Azure DevOps and was assigned stories to make a fully working MVT app in Django Framework. Working on this project in Django was a great learning oppertunity for me to learn how to fix bugs, clean up my code, implement the use of for loops more, scraping website data using BeautifulSoup and working with RESTapi's. There were a lot of challeneges that I faced during this project that could have been a big roadblocks but I was able to work with the Project Managers and a few other people to help me get past those roadblocks and I utilized the tools and examples that were given to me. 
+For the last two weeks I worked on a Live Project with the Tech Academy, I worked with my peers in a team using Azure DevOps and was assigned stories to make a fully working MVT app in Django Framework. Working on this project in Django was a great learning oppertunity for me to learn how to fix bugs, clean up my code, implement the use of for loops more, scraping website data using BeautifulSoup and working with RESTapi's and to be more familiarized with how Django Framework works and making virtualenv's. There were a lot of challeneges that I faced during this project that could have been a big roadblocks but I was able to work with the Project Managers and a few other people to help me get past those roadblocks and I utilized the tools and examples that were given to me. 
 
 Below are descriptions of the stories I worked on during this project using the CRUD functionality, along with code snippets.
 
@@ -153,4 +153,9 @@ In the front end development I was able to design multiple URL Paths to go throu
                     
 ## Skills Acquired
 
-* Working with a group of developers to identify front and back end bugs 
+* Working with a group of developers to identify front and back end bugs.
+* Improving my code and implementing the use of for loops inside of projects versus hard coding any code.
+* Using Git to Create new branches to work on and improve the over all project, commiting the changes made, Merging in new branches and the over all project into one of the created branches, and push files to the Project Manager for review.
+* Practice with working in DevOps to see how Agile and Scrum Project Managment styles are implemented in the actual work field and how each coding assignment is assigned to each person. 
+* Asking for help when needed
+    *I had ran in to some issues with trying to get the Web Scraping information to show up and same with the RESTapi. I learned to do good research to get me on the correct path to figuring out the final solution, but if I had still gotten stuck on something I learned that it was ok to reach out and ask for help to get more guidence in where to go so I could finish my task within the time frame that was given.
