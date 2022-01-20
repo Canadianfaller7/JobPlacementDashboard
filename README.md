@@ -147,7 +147,7 @@ Here I used the pokeapi.co to get my Pokemon information, with this api the user
                  
                  
 ## Front End Development
-In the front end development I was able to design multiple URL Paths to go through all of the function I have created. I have also made it so that when the user goes to search for a pokemon the api picture shows up inside of a Pokeball with it's information displayed to the side of the ball, and when they user goes to look at the saved information about the Pokémon it will change to an actual PokeDex background and there they can edit or delete the information. I have uploaded some screenshots of the page into a folder to show what the offical app looks like. * [Screen Shots of my App](https://github.com/Canadianfaller7/Python-Projects/tree/main/File%20Transfer/ "Named link title")
+In the front end development I was able to design multiple URL Paths to go through all of the function I have created. I have also made it so that when the user goes to search for a pokemon the api picture shows up inside of a Pokeball with it's information displayed to the side of the ball, and when they user goes to look at the saved information about the Pokémon it will change to an actual PokeDex background and there they can edit or delete the information. I have uploaded some screenshots of the page into a folder to show what the offical app looks like. * [Screen Shots of my App](https://github.com/Canadianfaller7/JobPlacementDashboard/tree/master/LiveProjectScreenshots/ "Named link title")
 
 
                     
