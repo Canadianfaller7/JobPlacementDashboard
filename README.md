@@ -1,7 +1,7 @@
 # Python Live Project
 
 ## Introduction
-For the last two weeks I worked on a Live Project with the Tech Academy, I worked with my peers in a team using Azure DevOps and was assigned stories to make a fully working MVT app in Django Framework. Working on this project in Django was a great learning oppertunity for me to learn how to fix bugs, clean up my code, implement the use of for loops more, scraping website data using BeautifulSoup and working with RESTapi's and to be more familiarized with how Django Framework works and making virtualenv's. There were a lot of challeneges that I faced during this project that could have been a big roadblocks but I was able to work with the Project Managers and a few other people to help me get past those roadblocks and I utilized the tools and examples that were given to me. 
+For the last two weeks I worked on a Live Project with the Tech Academy, I worked with my peers in a team using Azure DevOps and was assigned stories to make a fully working MVT app in Django Framework. Working on this project in Django was a great learning opportunity for me to learn how to fix bugs, clean up my code, implement the use of for loops more, scraping website data using BeautifulSoup and working with RESTapi's and to be more familiarized with how Django Framework works and making virtualenv's. There were a lot of challeneges that I faced during this project that could have been a big roadblocks but I was able to work with the Project Managers and a few other people to help me get past those roadblocks and I utilized the tools and examples that were given to me. 
 
 Below are descriptions of the stories I worked on during this project using the CRUD functionality, along with code snippets.
 
