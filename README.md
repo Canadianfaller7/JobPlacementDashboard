@@ -1,9 +1,9 @@
 # Python Live Project
 
 ## Introduction
-For the last two weeks I worked on a Live Project with the Tech Academy, I worked with my peers in a team using Azure DevOps and was assigned stories to make a fully working MVT app in Django Framework. Working on this project in Django was a great learning opportunity for me to learn how to fix bugs, clean up my code, implement the use of for loops more, scraping website data using BeautifulSoup and working with RESTapi's and to be more familiarized with how Django Framework works and making virtualenv's. There were a lot of challeneges that I faced during this project that could have been a big roadblocks but I was able to work with the Project Managers and a few other people to help me get past those roadblocks and I utilized the tools and examples that were given to me. 
+For the last two weeks I worked on a Live Project with the Tech Academy, I worked with my peers in a team using Azure DevOps and was assigned stories to make a fully working MVT full stack app in Django Framework. Working on this project in Django was a great learning opportunity for me to learn how to fix bugs, clean up my code, implement the use of for loops more, scraping website data using BeautifulSoup and working with RESTapi's and to be more familiarized with how Django Framework works and making virtualenv's. There were a lot of challeneges that I faced during this project that could have been a big roadblocks but I was able to work with the Project Managers and a few other people to help me get past those roadblocks and I utilized the tools and examples that were given to me. 
 
-Below are descriptions of the stories I worked on during this project using the CRUD functionality, along with code snippets.
+Below are descriptions of the stories I worked on during this project in the back end using the CRUD functionality and some front end experience, along with code snippets.
 
 ## Create
 This story was creating a Schema using a relational database, SQlight3 in Python as our main Database and making sure that we were able to save user input into the Database we created by checking that all of the information the user put in matched the requirements of our forms.
@@ -147,7 +147,7 @@ Here I used the pokeapi.co to get my Pokemon information, with this api the user
                  
                  
 ## Front End Development
-In the front end development I was able to design multiple URL Paths to go through all of the function I have created. I have also made it so that when the user goes to search for a pokemon the api picture shows up inside of a Pokeball with it's information displayed to the side of the ball, and when they user goes to look at the saved information about the Pokémon it will change to an actual PokeDex background and there they can edit or delete the information. I have uploaded some screenshots of the page into a folder to show what the offical app looks like. * [Screen Shots of my App](https://github.com/Canadianfaller7/JobPlacementDashboard/tree/master/LiveProjectScreenshots/ "Named link title")
+In the front end I was able to design multiple URL Paths to go through all of the function I have created. I have also made it so that when the user goes to search for a pokemon the api picture shows up inside of a Pokeball with it's information displayed to the side of the ball, and when they user goes to look at the saved information about the Pokémon it will change to an actual PokeDex background and there they can edit or delete the information. I have uploaded some screenshots of the page into a folder to show what the offical app looks like. * [Screen Shots of my App](https://github.com/Canadianfaller7/JobPlacementDashboard/tree/master/LiveProjectScreenshots/ "Named link title")
 
 
                     
